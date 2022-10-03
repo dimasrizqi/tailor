@@ -7,8 +7,8 @@ $dbpass = "Sr123Th24"; */
 
 
 $baseurl = "http://localhost/tailor/";	
-$dbname = "tailor";
-$dbhost = "izbuqebp_tailor";
+$dbname = "izbuqebp_tailor";
+$dbhost = "localhost";
 $dbuser = "izbuqebp_tailor";
 $dbpass = "Cemerlang2022";
 
